@@ -16,14 +16,14 @@ Outline for presentation
 12. Reference ( must include reference of base paper on the top)
 
 
-#Instructions
 
-1.	Minor project guidelines are shared above. Read carefully.
-2.	In a group, minimum 2 students and maximum 3 students are allowed.
-3.	A sheet has been shared with all. Add your project and group details in that sheet.
-4.	Synopsis presentation scheduled only on 15th September 2023 in CSE LAB 1. Later on, no group will be entertained.
-5.	All members in a group must be present during presentation. Otherwise, presentation will not be taken.
-6.	For presentation all group must have
-•	Synopsis(hardcopy). Format has been shared above.
-•	PPT slides for presentation
-•	1 Base Paper related to Project and Research paper
+#Instructions
+1)	Minor project guidelines are shared above. Read carefully.
+2)	In a group, minimum 2 students and maximum 3 students are allowed.
+3)	A sheet has been shared with all. Add your project and group details in that sheet.
+4)	Synopsis presentation scheduled only on 15th September 2023 in CSE LAB 1. Later on, no group will be entertained.
+5)	All members in a group must be present during presentation. Otherwise, presentation will not be taken.
+6)	For presentation all group must have
+7)  Synopsis(hardcopy). Format has been shared above.
+8)  PPT slides for presentation
+9)  Base Paper related to Project and Research paper

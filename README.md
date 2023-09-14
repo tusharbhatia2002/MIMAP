@@ -16,6 +16,7 @@ Outline for presentation
 12. Reference ( must include reference of base paper on the top)
 
 
+#Instructions
 
 1.	Minor project guidelines are shared above. Read carefully.
 2.	In a group, minimum 2 students and maximum 3 students are allowed.

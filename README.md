@@ -27,3 +27,7 @@ Outline for presentation
 7)  Synopsis(hardcopy). Format has been shared above.
 8)  PPT slides for presentation
 9)  Base Paper related to Project and Research paper
+
+#Datset
+
+https://www.kaggle.com/datasets/deeptrial/miniimagenet

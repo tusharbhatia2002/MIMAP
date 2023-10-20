@@ -29,5 +29,5 @@ Outline for presentation
 9)  Base Paper related to Project and Research paper
 
 #Datset
-
-https://www.kaggle.com/datasets/deeptrial/miniimagenet
+First use this (10 classess) : https://www.kaggle.com/datasets/alessiocorrado99/animals10?select=raw-img
+Will see this one later : https://www.kaggle.com/datasets/deeptrial/miniimagenet
